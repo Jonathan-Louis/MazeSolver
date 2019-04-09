@@ -5,6 +5,7 @@ Program that allows user to enter the number of rows and columns for a rectangul
 
 # Example run #1 with 3 rows and 3 columns:
 
+```
 Enter number of rows for maze: 
 3
 Enter number of columns for maze: 
@@ -60,11 +61,13 @@ Enter number of columns for maze:
 |_ _| |
 
 Maze of 3 rows and 3 columns took 11 iterations to solve.
+```
 
 
 
 # Example run #2, 50 rows by 50 columns:
 
+```
 Enter number of rows for maze: 
 50
 Enter number of columns for maze: 
@@ -177,3 +180,4 @@ final maze
 |_|_ _|_|_ _ _ _|_|_ _|_|_ _ _ _ _|_ _ _|_ _ _ _ _|_ _ _|_|_|_ _ _ _ _|_|_ _ _|_ _ _ _ _ _ _ _ _ _  |
 
 Maze of 50 rows and 50 columns took 4891 iterations to solve.
+```
